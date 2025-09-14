@@ -1,0 +1,15 @@
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.GeneratedMSBuildEditorConfig.editorconfig
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.AssemblyInfoInputs.cache
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.AssemblyInfo.cs
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.csproj.CoreCompileInputs.cache
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.sourcelink.json
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\bin\Debug\net9.0\SearchAlogorithms.exe
+D:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\bin\Debug\net9.0\SearchAlogorithms.deps.json
+D:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\bin\Debug\net9.0\SearchAlogorithms.runtimeconfig.json
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\bin\Debug\net9.0\SearchAlogorithms.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\bin\Debug\net9.0\SearchAlogorithms.pdb
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\refint\SearchAlogorithms.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.pdb
+D:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\SearchAlogorithms.genruntimeconfig.cache
+D:\OTC CLASSES\FA-CSC-210-H102\Search-Alogorithms\SearchAlogorithms\obj\Debug\net9.0\ref\SearchAlogorithms.dll
